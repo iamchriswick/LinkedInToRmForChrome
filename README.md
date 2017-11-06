@@ -4,6 +4,8 @@
 
 #Webpack4ChromeExtension v0.0.4
 ## Installation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamchriswick/LinkedInToRmForChrome.svg)](https://greenkeeper.io/)
 ```
 git clone https://github.com/WebDevArchive/Webpack4ChromeExtension.git
 cd Webpack4ChromeExtension
